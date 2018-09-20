@@ -1,19 +1,26 @@
 ul {
 list-style-type:none;
 }
-
-.identite{
+.bleu {
   background-color: #2574a9;
 }
 
-.identite ol {
-  background-color: #2574a9;
-}
-
-.adresse {
+.violet {
   background-color: #9a12b3;
 }
 
-.informations{
+.rose{
+  background-color: #db0a5b;
+}
+
+#identite {
+  background-color: #2574a9;
+}
+
+#adresse {
+  background-color: #9a12b3;
+}
+
+#informations {
   background-color: #db0a5b;
 }
